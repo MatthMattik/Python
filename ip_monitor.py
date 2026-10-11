@@ -7,7 +7,7 @@ Usage:
     python ip_monitor.py --once     # check once and exit (for Task Scheduler / cron)
     python ip_monitor.py --interval 5   # custom interval in minutes
 
-Log file: ip_changes.log (next to this script)
+Output Log file: ip_changes.log (next to this script)
     2026-10-10 20:40:12  98.24.113.7  (first recorded)
     2026-10-12 03:20:45  98.24.119.201  (changed from 98.24.113.7)
 
